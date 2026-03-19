@@ -1,0 +1,5 @@
+Candidate,Resume,Score,Strengths,Gaps,Recommendation
+resume1.txt,"Skilled in Python, SQL, and Excel. Experience in data analysis and visualization using Power BI.",36.47,"['python', 'sql', 'excel']",['machine learning'],Strong Fit
+resume3.txt,"
+Expert in Excel and reporting. No experience in Python or Machine Learning.",26.16,"['python', 'excel', 'machine learning']",['sql'],Moderate Fit
+resume2.txt,Knowledge of Machine Learning and Python. Basic SQL knowledge. Worked on predictive models.,13.32,"['python', 'sql', 'machine learning']",['excel'],Not Fit
